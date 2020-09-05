@@ -1,0 +1,8 @@
+/* preloader (pojawia się kiedy strona ładuje nowe dane i znika kiedy skończy) */
+
+#preloader {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
